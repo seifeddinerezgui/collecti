@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/gui/AjouterCat.fxml</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/entity/Categories.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/entity/pieces.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/gui/AjouterCatController.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/services/InterfaceServices.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/services/CategoriesServices.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/tools/Maconnection.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/tests/Collecti.java</file>
+            <file>file:/C:/Users/acer/Documents/NetBeansProjects/collecti/src/collecti/services/PiecesServices.java</file>
+        </group>
+    </open-files>
+</project-private>
